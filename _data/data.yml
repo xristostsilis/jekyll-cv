@@ -16,13 +16,16 @@ languages:
   - idiom: German
 
 education:
+
+- degree: MSc in HCI
+    time: 2023 - Currently Studying
+    university: University of Patras
+
   - degree: MSc in Electrical & Computer Engineering
     time: 2016-2023
     university: University of Patras
 
-  - degree: BSc in HCI
-    time: Currently Studying
-    university: University of Patras
+  
 
 skills:
   - category: Backend
