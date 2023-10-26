@@ -16,15 +16,14 @@ languages:
   - idiom: German
 
 education:
-
-- degree: MSc in Electrical & Computer Engineering
+  - degree: MSc in Electrical & Computer Engineering
     time: 2016-2023
     university: University of Patras
 
   - degree: BSc in HCI
     time: Currently Studying
     university: University of Patras
-    
+
 skills:
   - category: Backend
     skill: 
@@ -68,4 +67,3 @@ projects:
     details: |
       I created a web app for a local radio station in Patras with tools from Apple for recognising Now Playing tracks and Artists via the Ituned API, 
       plus creating my own shoutcast/icecast server to host the live audio for listeners.
-
